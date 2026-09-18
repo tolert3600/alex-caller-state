@@ -1,0 +1,49 @@
+{
+ "updated_at": "2026-09-18",
+ "warehouse": "22531 Bach Blvd, Richardsville, VA 22736",
+ "grades": {
+  "a": {
+   "label": "A Grade",
+   "price_per_pallet": 10.5
+  },
+  "b": {
+   "label": "B or Better",
+   "price_per_pallet": 8.5
+  },
+  "c": {
+   "label": "C or Better",
+   "price_per_pallet": 6.5
+  }
+ },
+ "delivery": {
+  "rate_per_mile": 3.5,
+  "note": "Flat rate per mile, not per pallet",
+  "free_delivery": "Free when quantity >= 200 AND distance <= 25 miles"
+ },
+ "tax": {
+  "va_sales_tax_rate": 0.053,
+  "note": "Applied to pallet subtotal only, not delivery. Skip if customer is tax exempt."
+ },
+ "formula": "total = (price_per_pallet * quantity) + delivery + tax; delivery = 0 if qty>=200 and miles<=25 else miles * 3.50; tax = 0.053 * (price_per_pallet * quantity) unless tax exempt",
+ "distances_miles": {
+  "culpeper": 20,
+  "fredericksburg": 21,
+  "warrenton": 30,
+  "manassas": 37,
+  "woodbridge": 42,
+  "fairfax": 50,
+  "stafford": 23,
+  "locust_grove": 9,
+  "orange": 30,
+  "charlottesville": 62,
+  "richmond": 79,
+  "alexandria": 61,
+  "leesburg": 66,
+  "winchester": 78,
+  "harrisonburg": 80,
+  "spotsylvania": 19,
+  "king_george": 40,
+  "colonial_beach": 55
+ },
+ "distance_note": "Driving distances from the Richardsville yard, rounded. If the destination is not listed, give the pallet subtotal + tax and say the delivered total will be texted after checking distance."
+}
