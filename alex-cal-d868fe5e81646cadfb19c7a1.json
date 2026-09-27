@@ -1,29 +1,23 @@
 {
-  "updated_at": "2026-09-26T04:38:56Z",
+  "updated_at": "2026-09-27T04:08:54Z",
   "events": [
-    {
-      "title": "Westlake past-due car payment $459.82 \u2014 PAY NOW",
-      "start": "2026-09-26",
-      "end": "2026-09-27",
-      "location": ""
-    },
-    {
-      "title": "Terry French roof install (Magic RoofWorks)",
-      "start": "2026-09-26",
-      "end": "2026-09-27",
-      "location": "11408 Oxfordshire Ct, Fredericksburg"
-    },
-    {
-      "title": "AT&T $337.13 PAST DUE \u2014 pay with next income",
-      "start": "2026-09-26",
-      "end": "2026-09-27",
-      "location": ""
-    },
     {
       "title": "Tractor Supply pallet pickup",
       "start": "2026-09-27T10:00:00-04:00",
       "end": "2026-09-27T11:00:00-04:00",
       "location": "Tractor Supply, Woodbridge"
+    },
+    {
+      "title": "Sempergreen delivery \u2014 PO 2026-0494",
+      "start": "2026-09-28",
+      "end": "2026-09-29",
+      "location": ""
+    },
+    {
+      "title": "Insurance payment $478.83",
+      "start": "2026-09-28",
+      "end": "2026-09-29",
+      "location": ""
     }
   ]
 }
