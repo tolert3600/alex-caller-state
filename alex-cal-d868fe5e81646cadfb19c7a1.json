@@ -1,23 +1,17 @@
 {
-  "updated_at": "2026-09-28T04:08:53Z",
+  "updated_at": "2026-09-29T04:08:54Z",
   "events": [
-    {
-      "title": "Sempergreen delivery \u2014 PO 2026-0494",
-      "start": "2026-09-28",
-      "end": "2026-09-29",
-      "location": ""
-    },
-    {
-      "title": "Insurance payment $478.83",
-      "start": "2026-09-28",
-      "end": "2026-09-29",
-      "location": ""
-    },
     {
       "title": "Brianne Scrudders \u2014 window cleaning (PROPOSED)",
       "start": "2026-09-29T09:00:00-04:00",
       "end": "2026-09-29T11:00:00-04:00",
       "location": "Jeffersonton, VA"
+    },
+    {
+      "title": "Mellany Bethea \u2014 hard-water callback (PROPOSED)",
+      "start": "2026-09-30T09:00:00-04:00",
+      "end": "2026-09-30T12:00:00-04:00",
+      "location": "7786 Warrenton Chase Drive, Warrenton"
     }
   ]
 }
