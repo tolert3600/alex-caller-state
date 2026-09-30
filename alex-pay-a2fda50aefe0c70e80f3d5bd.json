@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T14:09:56Z",
+  "updated_at": "2026-09-30T14:11:06Z",
   "invoices": [
     {
       "id": "CPR-1042",
@@ -35,6 +35,13 @@
       "amount": 1642.32,
       "paid": true,
       "paid_at": "2026-09-17T00:00:00Z"
+    },
+    {
+      "id": "CPR-1048",
+      "customer": "Sempergreen",
+      "amount": 2240.0,
+      "paid": false,
+      "paid_at": null
     }
   ]
 }
