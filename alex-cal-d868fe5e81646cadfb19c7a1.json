@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-12T04:08:54Z",
+  "updated_at": "2026-10-13T04:08:58Z",
   "events": [
     {
-      "title": "Westlake car payment $458.91 due",
-      "start": "2026-10-12",
-      "end": "2026-10-13",
-      "location": ""
+      "title": "Window cleaning - 20 windows (2020 Gold Dr)",
+      "start": "2026-10-14T09:00:00-04:00",
+      "end": "2026-10-14T12:00:00-04:00",
+      "location": "2020 Gold Dr"
     }
   ]
 }
