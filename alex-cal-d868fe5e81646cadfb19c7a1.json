@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T04:09:01Z",
+  "updated_at": "2026-10-21T20:09:06Z",
   "events": [
     {
       "title": "Att Payment (337.13)",
@@ -12,12 +12,6 @@
       "start": "2026-10-21",
       "end": "2026-10-22",
       "location": ""
-    },
-    {
-      "title": "IAD 193",
-      "start": "2026-10-21T06:00:00-04:00",
-      "end": "2026-10-21T16:00:00-04:00",
-      "location": "IAD 193"
     },
     {
       "title": "Gutters \u2014 Kurt Breitenbach",
